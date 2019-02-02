@@ -6,4 +6,4 @@
 This repository contains my solutions to different Kaggle competitions and Datasets. It also includes great kernels and techniques implemented and recreated by me. 
 
 > ### Competitions
-- [x] [PUBG Finish Placement Prediction]()
+- [ ] [PUBG Finish Placement Prediction]()
