@@ -7,7 +7,7 @@ This repository contains my solutions to different Kaggle competitions and Datas
 
 > ### Competitions
 - [ ] [PUBG Finish Placement Prediction]()
-- [x] [Cats Vs Dogs Image Classification]()
-- [x] [MNIST Digit Clssification]()
-- [x] [Fashion MNIST]()
-- [x] [California Housing Prices]()
+- [x] [Cats Vs Dogs Image Classification](https://github.com/sourcecode369/Kaggle-Kernels/blob/master/Cats_Vs_Dogs.rar)
+- [x] [MNIST Digit Clssification](https://github.com/sourcecode369/Kaggle-Kernels/blob/master/Digit_Recognizer_Perfect_100_.ipynb)
+- [x] [Fashion MNIST](https://github.com/sourcecode369/Kaggle-Kernels/blob/master/Fashion_MNIST_using_Simple_DNN.ipynb)
+- [x] [California Housing Prices](https://github.com/sourcecode369/Kaggle-Kernels/blob/master/California_Housing_Prices.ipynb)
