@@ -7,3 +7,7 @@ This repository contains my solutions to different Kaggle competitions and Datas
 
 > ### Competitions
 - [ ] [PUBG Finish Placement Prediction]()
+- [x] [Cats Vs Dogs Image Classification]()
+- [x] [MNIST Digit Clssification]()
+- [x] [Fashion MNIST]()
+- [x] [California Housing Prices]()
