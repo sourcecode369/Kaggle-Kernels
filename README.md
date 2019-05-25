@@ -12,5 +12,6 @@ This repository contains my solutions to different Kaggle competitions and Datas
 - [x] [Fashion MNIST](https://github.com/sourcecode369/Kaggle-Kernels/blob/master/Fashion_MNIST_using_Simple_DNN.ipynb)
 - [x] [Machine Learning Explainability](https://github.com/sourcecode369/KaggleKernels/blob/master/Machine%20Learning%20Explainability.ipynb)
 - [x] [MNIST Digit Clssification](https://github.com/sourcecode369/Kaggle-Kernels/blob/master/Digit_Recognizer_Perfect_100_.ipynb)
+- [x] [Blue Book for Bulldozers](https://github.com/sourcecode369/Kaggle-Kernels/blob/master/Blue_Book_for_Bulldozers_Random_Forest.ipynb)
 - [ ] [PUBG Finish Placement Prediction]()
 
