@@ -1,5 +1,5 @@
 # Kaggle-Kernels
-![Kaggle Kernels](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)
+![KaggleProgression](https://miro.medium.com/max/1082/1*T5oDltDFi8FQJ8kZdFUMoQ.png)
 
     Kaggle is an online community of data scientists and machine learners, owned by Google, Inc. 
     Kaggle allows users to find and publish data sets, explore and build models in a web-based 
