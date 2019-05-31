@@ -25,3 +25,6 @@ The purpose this repository serves is it contains my implementation or re-implem
 
 ### Kaggle Learn
 - [x] [Machine Learning Explainability](https://github.com/sourcecode369/KaggleKernels/blob/master/Machine%20Learning%20Explainability.ipynb)
+
+### Kaggle Datasets
+- [x] [Diabetes](https://github.com/sourcecode369/Kaggle-Kernels/blob/master/Diabetes%20using%20Ensemble.ipynb) 
